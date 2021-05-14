@@ -1,1 +1,3 @@
-my name is one
+my name is one 
+
+one and two should be one commit 
